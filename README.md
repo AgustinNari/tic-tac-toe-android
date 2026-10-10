@@ -60,7 +60,7 @@ The application allows the player to choose a symbol and difficulty level, while
 ## Requirements
 
 - Android Studio
-- JDK 11
+- JDK 17 or newer (JDK 21 tested)
 - Android SDK 36
 - Android 7.0 / API 24 or newer
 
